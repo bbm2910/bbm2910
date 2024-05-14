@@ -7,7 +7,7 @@
 📦 Database: MongoDB, Mongoose
 
 I'm constantly exploring new technologies and striving to improve my skills. Check out my repositories to see what I've been working on. Let's collaborate and create something amazing together!
-
+You can find my portofolio [here](https://bbm2910.github.io/Portofolio/).
 <!--
 **bbm2910/bbm2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
