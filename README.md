@@ -1,3 +1,5 @@
+<img width="80%" alt="Hello, I'm Anurag. I do open source!" src="linkedin_banner.png" />
+
 ### Hi there 👋
 I'm Bobby! I've taught myself how to develop web applications and I'm really passionate about creating innovative and user-friendly websites. <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bobby-mastacan-353b8b183/)](https://www.linkedin.com/in/bobby-mastacan-353b8b183/)
