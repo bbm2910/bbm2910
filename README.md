@@ -2,6 +2,7 @@
 👋 I'm Bobby, a self-taught web developer passionate about developing innovative and user-friendly web applications. <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bobby-mastacan-353b8b183/)](https://www.linkedin.com/in/bobby-mastacan-353b8b183/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@b.mastacan@gmail.com)](mailto:mail@b.mastacan@gmail.com)
+<a href="https://bbm2910.github.io/Portofolio/" target="_blank"><img src="https://img.shields.io/badge/PORTOFOLIO-121481" target="_blank"></a></a>
 
 
 #### My tech stack:
@@ -10,8 +11,6 @@
 
 - 🌱 Passionate abiut photography and currently learning Norwegian.
 - 🔭 Constantly exploring new technologies and striving to improve my skills. Check out my repositories to see what I've been working on. Let's collaborate and create something amazing together!
-- [Portofolio](https://bbm2910.github.io/Portofolio/).
-
 
 <!--
 **bbm2910/bbm2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
