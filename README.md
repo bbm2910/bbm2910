@@ -9,7 +9,7 @@ I'm Bobby! I've taught myself how to develop web applications and I'm really pas
 
 <img src="https://cdn.simpleicons.org/html5" alt="HTML" width="25" height="25"/> <img src="https://cdn.simpleicons.org/css3" alt="CSS" width="25" height="25"/> <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="25" height="25"/> <img src="https://cdn.simpleicons.org/react" alt="React" width="25" height="25"/> <img src="https://cdn.simpleicons.org/node.js" alt="HTML" width="25" height="25"/> <img src="https://cdn.simpleicons.org/mongoDB" alt="HTML" width="25" height="25"/> <img src="https://cdn.simpleicons.org/Express" alt="HTML" width="25" height="25"/>
 
-- 🌱 Passionate about photography and currently learning Norwegian.
+- 🌱 Love photography and currently picking up some Norwegian!
 - 🔭 Constantly exploring new technologies and striving to improve my skills. Check out my repositories to see what I've been working on. Let's collaborate and create something amazing together!
 
 <!--
