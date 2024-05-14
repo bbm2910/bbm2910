@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![JavaScript](https://cdn.simpleicons.org/javascript)
 👋 Hi there! I'm a self-taught web developer passionate about developing innovative and user-friendly web applications. My tech stack includes:
 
 🌐 Frontend: HTML, CSS, JavaScript, React
