@@ -1,8 +1,7 @@
 <img width="100%" alt="banner image!" src="linkedin_banner.png" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bobby-mastacan-353b8b183/)](https://www.linkedin.com/in/bobby-mastacan-353b8b183/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@b.mastacan@gmail.com)](mailto:mail@b.mastacan@gmail.com)
-<a href="https://bbm2910.github.io/portofolio_react/" target="_blank"><img src="https://img.shields.io/badge/PORTOFOLIO-121481" target="_blank"></a></a>
+
 
 
 #### My tech stack:
