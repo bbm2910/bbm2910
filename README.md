@@ -1,8 +1,5 @@
 <img width="100%" alt="banner image!" src="linkedin_banner.png" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bobby-mastacan-353b8b183/)](https://www.linkedin.com/in/bobby-mastacan-353b8b183/)
-
-
 
 #### My tech stack:
 
